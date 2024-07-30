@@ -1,3 +1,5 @@
 this is first file
 
 add anouther file to thw commit 
+
+added more fucntiona in main
